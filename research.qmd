@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+## **Female communication evolution in a large clade of suboscine birds**
+
+In my PhD, I am studying how communication has evolved in female birds. Specifically, I seek to understand the mechanisms underlying the evolution of signaling traits in female birds using phylogenetic comparative methods and experimental behavior fieldwork approaches. I am using antbirds as a study system to answer these questions.
+
+![](Results_Poster_OCA23.png){fig-align="left"}
+
+## **Evolution of acoustic and visual traits in antwrens**
+
+During my Master's I studied the evolution of acoustic and visual signals in a diverse clade of sexually dimorphic passerine bird species, commonly known as antwrens. Specifically, we assessed how behavioral and ecological factors can limit investment in more than one sensory modality potentially leading to a trade-off in use of different signals (Transfer Hypothesis), and how this trade-off interacts with environmental constraints on signal transmission (Sensory Drive Hypothesis). As main results, we uncovered significant effects of habitat (Sensory Drive) and mixed-species flocking behavior (Social selection) on both sensory modalities, and we revealed evolutionary trade-offs between song and plumage complexity, consistent with the Transfer Hypothesis.
+
+![](slide_results_master_MS.png){fig-align="right"}
