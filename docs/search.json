@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Renata Beco (she/her)",
-    "section": "",
-    "text": "Welcome to my website! My name is Renata and I am a PhD candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville. I am part of the Derryberry lab, where I study the evolution of bird communication in female antbirds.\nDuring my free time, I crochet birds, go for hikes where I bird and post all cool organisms I found on my iNaturalist."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Renata Beco (she/her)",
-    "section": "",
-    "text": "Welcome to my website! My name is Renata and I am a PhD candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville. I am part of the Derryberry lab, where I study the evolution of bird communication in female antbirds.\nDuring my free time, I crochet birds, go for hikes where I bird and post all cool organisms I found on my iNaturalist."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -40,6 +26,20 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Renata Beco (she/her)",
+    "section": "",
+    "text": "Welcome to my website! My name is Renata and I am a PhD candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville. I am part of the Derryberry lab, where I study the evolution of bird communication in female antbirds.\nDuring my free time, I crochet birds, go for hikes where I bird and post all cool organisms I found on my iNaturalist."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Renata Beco (she/her)",
+    "section": "",
+    "text": "Welcome to my website! My name is Renata and I am a PhD candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville. I am part of the Derryberry lab, where I study the evolution of bird communication in female antbirds.\nDuring my free time, I crochet birds, go for hikes where I bird and post all cool organisms I found on my iNaturalist."
   },
   {
     "objectID": "publications.html",
