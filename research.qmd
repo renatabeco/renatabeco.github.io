@@ -6,7 +6,7 @@ title: "Research"
 
 In my PhD, I am studying how communication has evolved in female birds. Specifically, I seek to understand the mechanisms underlying the evolution of signaling traits in female birds using phylogenetic comparative methods and experimental behavior fieldwork approaches. I am using antbirds as a study system to answer these questions.
 
-![](Results_Poster_OCA23.png){fig-align="left"}
+![](Results_Poster_OCA23.jpg){width="483"}
 
 ## **Evolution of acoustic and visual traits in antwrens**
 
