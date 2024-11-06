@@ -4,7 +4,7 @@ title: "Renata Beco (she/her)"
 
 ## About me
 
-![](aboutme.jpg){width="313"}
+![](aboutme.jpg){fig-align="left" width="313"}
 
 Welcome to my website! My name is Renata and I am a PhD candidate in Ecology and Evolutionary Biology at the University of Tennessee, Knoxville. I am part of the [Derryberry lab](https://derryberrylab.wordpress.com/), where I study the evolution of bird communication in female antbirds.
 
