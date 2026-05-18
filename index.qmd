@@ -4,7 +4,7 @@ resources: CV_RB_mar26.pdf
 about: 
    id: hero-heading
    template: trestles
-   image: me.JPG
+   image: me_resized.jpg
    image-shape: round
    image-width: 10em
    links: 
