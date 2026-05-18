@@ -5,8 +5,6 @@ about:
    id: hero-heading
    template: trestles
    image: me_resized.jpg
-   image-shape: round
-   image-width: 10em
    links: 
      - text: Email
        icon: envelope
