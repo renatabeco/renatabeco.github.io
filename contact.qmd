@@ -7,7 +7,7 @@ about:
      - text: Email
        href: mailto:rpereir4@vols.utk.edu
      - text: CV
-       href: CV_RB_mar26.pdf
+       href: CV_RB_jul26.pdf
 ---
 
 ![](images/clipboard-3144912001.jpeg)
